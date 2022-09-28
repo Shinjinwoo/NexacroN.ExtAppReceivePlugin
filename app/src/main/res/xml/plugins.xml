@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin-config>
+    <plugin name="ExtAppReceivePlugin" class="com.tobesoft.plugin.extappreceiveplugin.ExtAppReceivePluginObject"/>
+</plugin-config>
